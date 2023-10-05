@@ -1,6 +1,6 @@
 # Influco API
 
->Backend API for Influco application, which is a platform where brands and ifluencers can collaborate and interact with users.
+>Backend API for Influco application, which is a platform where brands and influencers can collaborate and interact with users.
 
 # Usage
 
